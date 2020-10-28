@@ -1,0 +1,4 @@
+repo.name: NeoGPS
+repo.versions:
+    "0.0.0": "master"
+    "0-latest": "mynewt_lib"
